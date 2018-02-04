@@ -6,5 +6,6 @@ int main(){
 	printf("SUM (a+b)=%f\n",sum);
 	printf("DIFFERENCE (a-b)= %f\n",difference);
 	printf("Hello world. My name is Bishal.");
+	printf("Hello Pandu");
 	return 0;
 }
